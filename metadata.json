@@ -1,0 +1,6 @@
+{
+  "name": "NPM-Core: Nginx Proxy Manager Studio",
+  "description": "Professional Monokai-themed Nginx reverse proxy manager with live config generator, SSL automation, Grafana-style telemetry, and real-time log streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
